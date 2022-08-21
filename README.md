@@ -1,4 +1,4 @@
-### Oláááá, eu sou a Thatyane
+### Prazer, me chamo Thatyane
 <div align="center">
   <a href="https://github.com/Marquestt">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Marquestt&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
